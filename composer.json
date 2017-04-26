@@ -1,6 +1,6 @@
 {
     "name": "makc45/yii2-relation",
-    "description": "Ìîäóëü ïîçâîëÿåò ïðèâÿçûâàòü ëþáûå ìîäåëè ê ëþáûì ìîäåëÿì (ïðèìåð - ïîõîæèå òîâàðû è ò.ä.)",
+    "description": "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð¿Ñ€Ð¸Ð²ÑÐ·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð»ÑŽÐ±Ñ‹Ðµ Ð¼Ð¾Ð´ÐµÐ»Ð¸ Ðº Ð»ÑŽÐ±Ñ‹Ð¼ Ð¼Ð¾Ð´ÐµÐ»ÑÐ¼ (Ð¿Ñ€Ð¸Ð¼ÐµÑ€ - Ð¿Ð¾Ñ…Ð¾Ð¶Ð¸Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ Ð¸ Ñ‚.Ð´.)",
     "keywords": ["yii2", "yii2", "application", "images", "yii2-relation", "relations", "makc45"],
     "homepage": "https://github.com/makc45/yii2-relation",
     "type": "yii2-extension",
@@ -14,6 +14,7 @@
             "email": "makckgn@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
