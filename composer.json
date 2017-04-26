@@ -1,0 +1,32 @@
+{
+    "name": "makc45/yii2-relation",
+    "description": "Модуль позволяет привязывать любые модели к любым моделям (пример - похожие товары и т.д.)",
+    "keywords": ["yii2", "yii2", "application", "images", "yii2-relation", "relations", "makc45"],
+    "homepage": "https://github.com/makc45/yii2-relation",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "source": "https://github.com/makc45/yii2-relation"
+    },
+    "authors": [
+        {
+            "name": "Makc",
+            "email": "makckgn@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*",
+        "kartik-v/yii2-widget-fileinput": "*",
+        "newerton/yii2-fancybox": "dev-master"
+    },
+    "config": {
+        "process-timeout": 1800
+    },
+    "autoload": {
+        "psr-4": {
+            "makc45\\relation\\": ""
+        }
+    }
+}  
